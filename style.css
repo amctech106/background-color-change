@@ -1,55 +1,55 @@
-  .main{
-            height: 50vh;
-            width: 40%;
-            background-color: lightgrey;
-            box-shadow: 10px 10xp 10px black;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: center;
-            gap: 50px;
-            margin: 100px auto;
-            box-sizing: border-box;
-            border-radius: 10px;
-        }
+.main {
+  height: 50vh;
+  width: 40%;
+  background-color: lightgrey;
+  box-shadow: 10px 10xp 10px black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin: 100px auto;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
 
-        #red{
-            padding: 10px 30px;
-            background-color: red;
-            border-radius: 10px;
-            border: none;
-            color:white;
-            font-size: larger;
-        }
-        #green{
-            padding: 10px 30px;
-            background-color: green;
-            border-radius: 10px;
-            border: none;
-            color:white;
-            font-size: larger;
-        }
-        #orange{
-            padding: 10px 30px;
-            background-color: orange;
-            border-radius: 10px;
-            border: none;
-            color:white;
-            font-size: larger;
-        }
-        #blue{
-            padding: 10px 30px;
-            background-color: blue;
-            border-radius: 10px;
-            border: none;
-            color:white;
-            font-size: larger;
-        }
-        #reset{
-            padding: 10px 30px;
-            background-color: white;
-            border-radius: 10px;
-            border: none;
-            color:black;
-            font-size: larger;
-        }
+#red {
+  padding: 10px 30px;
+  background-color: red;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: larger;
+}
+#green {
+  padding: 10px 30px;
+  background-color: green;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: larger;
+}
+#orange {
+  padding: 10px 30px;
+  background-color: orange;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: larger;
+}
+#blue {
+  padding: 10px 30px;
+  background-color: blue;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-size: larger;
+}
+#reset {
+  padding: 10px 30px;
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  color: black;
+  font-size: larger;
+}
